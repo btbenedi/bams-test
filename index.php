@@ -38,7 +38,7 @@
 
 	<body>
 		<div id="heading">
-			Under Construction
+			Under Construction - Git Test
 		</div>
 		<p>
 			We apologize for any inconvenience and should be back up with a newly updated website soon.
